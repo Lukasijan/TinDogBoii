@@ -1,0 +1,157 @@
+#title {
+  background-color: #ff4c68;
+  /* color: #334756; */
+  color: #ffff;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-family: Montserrat-Black;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+}
+
+h3{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+p{
+  color: #787A91;
+}
+
+em{
+  font-size: 1rem;
+}
+
+.container-fluid {
+  padding: 4% 10%;
+}
+
+/* Navigation Bar */
+.navbar{
+  padding: 0 1rem;
+  margin-bottom: 100px;
+}
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link{
+  font-size: 1.1rem;
+  font-family: "Montserrat-Light";
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Download Buttons */
+
+.download-btn{
+  margin: 20px 20px 0 0;
+}
+
+/* Title Image */
+
+.title-img{
+  width: 55%;
+  transform: rotate(20deg);
+  margin-top: 4%;
+  margin-left: 3%;
+}
+
+/* Features Section */
+
+#features{
+  padding: 7% 12%;
+  background-color: #FDEFEF;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 0 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* Testimonial Section */
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffff;
+}
+
+.testimonial-img{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+    padding: 3% 12%;
+}
+
+/* Press Section */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 12%;
+  margin: 3% 5% 0 0;
+}
+
+/* Pricing Section */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+  background-color: #FDEFEF;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.card-header{
+  background-color: #ef8172;
+}
+
+#cta{
+  text-align: center;
+  background-color: #ef8172;
+}
+
+#footer{
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.footer-margin{
+  margin-bottom: 0;
+}
